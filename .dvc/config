@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remot "myremote"']
+    url = s3 ://s3-dbcc-backet/dvc-storage
+    region = eu-central-1
